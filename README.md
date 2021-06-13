@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there!
+👋 I’m willard
+👀 I’m interested in Cloud Solutions and Software Development
+🌱 I’m currently learning Automation, DevOps(AZ400), Project Management, and Six Sigma
+💞️ I’m looking to collaborate on Website Development and Hostings
 
 <!--
 **wret007/wret007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
